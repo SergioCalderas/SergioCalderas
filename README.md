@@ -1,4 +1,4 @@
 <h1 align="center">Hi 👋, I'm SergioCalderas</h1>
 
 
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioCalderas&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioCalderas&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
