@@ -11,4 +11,3 @@
 * Artificial Neural Networks 🧠
 * Frontend Web Development 🖥️
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioCalderas&layout=compact&title_color=ffffff&icon_color=11171F&bg_color=1A222E&text_color=FFFFFF)
