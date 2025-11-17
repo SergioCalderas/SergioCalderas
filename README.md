@@ -4,7 +4,7 @@
 
 ---
 
-:computer: Technologies I Love
+:computer: Technologies I love
 * Bio Inspired Algorithms 🐝
 * Digital Image Processing 🖼️
 * Machine Learning 🤖
